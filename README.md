@@ -1,1 +1,14 @@
-# mondopam.com
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: blue;
+        }
+    </style>
+    <title>Setting up</title>
+</head>
+<body>
+    <h1>Setting up</h1>
+</body>
+</html>
